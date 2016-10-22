@@ -1,0 +1,29 @@
+{
+  "name": "timestamp-prepender",
+  "version": "0.1.0",
+  "description": "node-powered timestamp prepender for use with Flyway",
+  "main": "bin/tscreate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stancheta/timestamp-prepender.git"
+  },
+  "keywords": [
+    "timestamp",
+    "flyway",
+    "prepender"
+  ],
+  "author": "Steven T Ancheta",
+  "email": "steventancheta@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stancheta/timestamp-prepender/issues"
+  },
+  "homepage": "https://github.com/stancheta/timestamp-prepender#readme",
+  "bin": {
+    "tsprepend": "lib/tsprepend.js",
+    "tscreate": "lib/tscreate.js"
+  }
+}
