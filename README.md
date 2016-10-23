@@ -12,4 +12,4 @@ Install with `npm install timestamp-prepender`
 
 Commands:
 
-`tscreate file name` will create this sql file `VVyyyyMMddHHmmssSSS__file_name.sql`
+`tscreate file name` will create this sql file `VyyyyMMddHHmmssSSS__file_name.sql`
