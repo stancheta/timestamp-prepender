@@ -1,6 +1,6 @@
 {
   "name": "timestamp-prepender",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "node-powered timestamp prepender for use with Flyway",
   "main": "bin/tscreate.js",
   "scripts": {
